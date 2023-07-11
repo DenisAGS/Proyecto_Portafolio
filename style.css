@@ -201,20 +201,20 @@
     margin: 10px;
   }
   
-  /* Articulos */
+  /* Certificaciones */
   
-  .articulos {
+  .certificaciones {
     min-height: 500px;
     padding: 30px;
   }
   
-  .articulos .card {
+  .certificaciones .card {
     width: 80%;
     max-width: 600px;
     margin: 20px;
   }
   
-  .articulos .card-header {
+  .certificaciones .card-header {
     font-weight: bold;
   }
   
